@@ -1,0 +1,19 @@
+{
+    "devices": [
+        "hw_dlk_100": {
+            "model": "DLK-100",
+            "name": "DoorLink",
+            "type": "Smart Sensor",
+            "repo_url": "https://github.com/plexylab/hw_doorlink_firmware",
+            "releases_url": "https://api.github.com/repos/plexylab/hw_doorlink_firmware/releases",
+            "min_fw_supported_version": "1.1.0",
+            "max_fw_supported_version": "latest",
+            "flash_config": {
+                "flash_settings": "default",
+                "partition_scheme": "default"
+            },
+            "developer": "PLEXYLAB RESEARCH (C) 2024",
+            "last_hw_version": "1.0.0",
+        }
+    ]
+}
