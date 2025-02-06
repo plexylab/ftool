@@ -3,6 +3,7 @@
         "hw_dlk_100": {
             "model": "DLK-100",
             "name": "DoorLink",
+            "platform": "espressif32",
             "type": "Smart Sensor",
             "repo_url": "https://github.com/plexylab/hw_doorlink_firmware",
             "releases_url": "https://api.github.com/repos/plexylab/hw_doorlink_firmware/releases",
@@ -13,7 +14,21 @@
                 "partition_scheme": "default"
             },
             "developer": "PLEXYLAB RESEARCH (C) 2024",
-            "last_hw_version": "1.0.0",
+            "last_brd_version": "1.0.0",
+        },
+        {
+            "name": "SmartPlug X",
+            "model": "SPX-200",
+            "type": "smart_plug",
+            "repo_url": "https://github.com/plexylab/smartplug-firmware",
+            "releases_url": "https://api.github.com/repos/plexylab/smartplug-firmware/releases",
+            "min_supported_version": "2.1.0",
+            "flash_config": {
+                "baud_rate": 921600,
+                "flash_mode": "qio",
+                "flash_size": "8MB",
+                "partition_scheme": "custom"
+            }
         }
     ]
 }
