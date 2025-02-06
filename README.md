@@ -12,3 +12,11 @@ Agradecemos a **Fredrik Ahlberg** por su trabajo en la creación de **Esptool**,
 
 Para más información sobre **Esptool**, visita su repositorio oficial en:  
 🔗 [https://github.com/espressif/esptool](https://github.com/espressif/esptool)
+
+## Licencia
+
+Este proyecto se distribuye bajo la **Licencia Pública General de GNU, versión 2 (GPL-2.0)**. Esto significa que el software es libre y de código abierto, permitiendo su uso, modificación y distribución, siempre y cuando se mantenga la misma licencia y se conserve la atribución al desarrollador original.
+
+Al utilizar o modificar este software, aceptas los términos de la **GPL-2.0**, que puedes consultar en el siguiente enlace:
+
+🔗 [Licencia GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
