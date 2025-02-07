@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ftool"
-version = "Preliminar"
 status = "Desarrollo"
+version = "Preliminar"
 description = "Herramienta para carga de firmware mediante interfaz USB en dispositivos desarrollados por PLEXYLAB RESEARCH"
 authors = [
     { name = "Sebastián Abril", email = "sebastiabril2@gmail.com" }
