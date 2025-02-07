@@ -1,10 +1,13 @@
 # ftool - Software de Carga de Firmware para Dispositivos Compatibles
 Herramienta para carga de firmware mediante interfaz USB en dispositivos desarrollados por PLEXYLAB RESEARCH
 
+![Versión](https://img.shields.io/badge/Versión-Preliminar-red)
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange)
+
 ## Características principales
 Este repositorio contiene el código fuente de ftool, una herramienta para la carga de firmware propietario y de código abierto, incluyendo **Micropython**, en dispositivos compatibles desarrollados por **PLEXYLAB RESEARCH**. Basado en **Esptool**, permite actualizar, flashear y gestionar el firmware de manera confiable y eficiente.
 
-> **Nota:** Esta versión de `ftool`, por el momento carga el firmware **v1.1.0** del dispositivo **DoorLink**. En la próxima versión, se incorporará la funcionalidad para descargar automáticamente la última versión del firmware del dispositivo DoorLink.
+> **⚠️ Nota:** Esta versión de `ftool`, por el momento carga el firmware **v1.1.0** del dispositivo **DoorLink**. En la próxima versión, se incorporará la funcionalidad para descargar automáticamente la última versión del firmware del dispositivo DoorLink.
 
 ## Instalación
 
