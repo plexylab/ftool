@@ -1,8 +1,9 @@
 # ftool - Software de Carga de Firmware para Dispositivos Compatibles
 Herramienta para carga de firmware mediante interfaz USB en dispositivos desarrollados por PLEXYLAB RESEARCH
 
-![Versión](https://img.shields.io/badge/Versión-Preliminar-red)
-![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange)
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplexylab%2Fftool%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&label=Estado&query=%24.project.status&color=orange)
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplexylab%2Fftool%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&label=Versión&query=%24.project.version&color=red)
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplexylab%2Fftool%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&label=Licencia&query=%24.project.license.text)
 
 ## Características principales
 Este repositorio contiene el código fuente de ftool, una herramienta para la carga de firmware propietario y de código abierto, incluyendo **Micropython**, en dispositivos compatibles desarrollados por **PLEXYLAB RESEARCH**. Basado en **Esptool**, permite actualizar, flashear y gestionar el firmware de manera confiable y eficiente.
