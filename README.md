@@ -1,5 +1,5 @@
 # ftool - Software de Carga de Firmware para Dispositivos Compatibles
-Herramienta para carga de firmware mediante interfaz USB en dispositivos desarrollados por PLEXYLAB RESEARCH
+Herramienta para carga de firmware mediante interfaz USB en dispositivos desarrollados por PLEXYLAB RESEARCH.
 
 ![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplexylab%2Fftool%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&label=Estado&query=%24.project.status&color=orange)
 ![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplexylab%2Fftool%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&label=Versión&query=%24.project.version&color=red)
