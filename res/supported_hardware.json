@@ -1,6 +1,6 @@
 {
     "devices": [
-        "hw_dlk_100": {
+        {
             "model": "DLK-100",
             "name": "DoorLink",
             "platform": "espressif32",
@@ -14,7 +14,7 @@
                 "partition_scheme": "default"
             },
             "developer": "PLEXYLAB RESEARCH (C) 2024",
-            "last_brd_version": "1.0.0",
+            "last_brd_version": "1.0.0"
         },
         {
             "name": "SmartPlug X",

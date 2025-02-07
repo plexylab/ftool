@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ftool"
+version = "1.1.0"
+description = "Herramienta para carga de firmware en dispositivos desarrollados por PLEXYLAB RESEARCH"
+authors = [
+    { name = "Sebastián Abril", email = "sebastiabril2@gmail.com" }
+]
+license = { text = "GPL-2.0" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pyserial>=3.5"
+]
+
+[project.scripts]
+ftool = "ftool.main:main"  # Ejecutable con `mi_proyecto`
