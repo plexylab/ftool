@@ -81,7 +81,7 @@ Este proyecto se basa en **Esptool**, una herramienta desarrollada y mantenida p
 
 Agradecemos a **Fredrik Ahlberg** por su trabajo en la creación de **Esptool**, que ha sido fundamental para la programación y gestión de dispositivos **ESP8266**, **ESP32** y variantes.
 
-Para más información sobre **Esptool**, visita su repositorio oficial en: 🔗 [Esptool](https://github.com/espressif/esptool)
+Para más información sobre **Esptool**, visita su repositorio oficial en: 🔗 [GitHub - Esptool](https://github.com/espressif/esptool)
 
 ## Licencia
 
